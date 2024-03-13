@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+}
+.navbar-brand h1{
+    font-weight: bold;
+}
+.container h2{
+    text-align: center;
+}
+.menu-item{
+    padding: 0px;
+    border: 3px solid black;
+    margin-bottom: 10px;
+    background-color: grey;
+}
+h3{
+    padding: 0;
+}
+.text-center{
+    font-weight: bold;
+}
+.nav-item a{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+    padding: 0;
+}
+.container > h2{
+    margin-top: 30px;
+}
+.row{
+    margin-top: 50px;
+}
